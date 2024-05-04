@@ -18,9 +18,9 @@ Docente: *Mag. Patrick José Cuadros Quiroga*
 
 Integrantes:
 
-***Villanueva Yucra, Josue					(2018000722)***
-***Condori Vargas, Thomas					(2018000487)***
-***Neira Machaca, Javier					(2017057984)***
+- ***Villanueva Yucra, Josue					(2018000722)***
+- ***Condori Vargas, Thomas					(2018000487)***
+- ***Neira Machaca, Javier					(2017057984)***
 
 **Tacna – Perú**
 
