@@ -10,7 +10,7 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto *Videojuego Javicho el Espadachin***
 
 Curso: *Diseño y creación de Videojuegos*
 
@@ -132,115 +132,180 @@ Versión *1.0*
 
     4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
 
-        El estudio de viabilidad técnica se enfoca en obtener un entendimiento de los recursos tecnológicos disponibles actualmente y su aplicabilidad a las necesidades que se espera tenga el proyecto. En el caso de tecnología informática esto implica una evaluación del hardware y software y como este puede cubrir las necesidades del sistema propuesto.
+    ## Hardware
 
-        Realizar una evaluación de la tecnología actual existente y la posibilidad de utilizarla en el desarrollo e implantación del sistema.*
+    | Componente    | Especificación        |
+    |---------------|-----------------------|
+    | Monitor       | 24 pulgadas           |
+    | Procesador    | Intel Core i5 3.2ghz  |
+    | Memoria RAM   | 4 GB                  |
+    | Disco Duro    | 200 GB HDD            |
 
-        Describir acerca del hardware (equipos, servidor), software (aplicaciones, navegadores, sistemas operativos, dominio, internet, infraestructura de red física, etc.
+    ## Hardware (Otro conjunto de especificaciones)
+
+    | Componente         | Especificación  |
+    |--------------------|-----------------|
+    | Velocidad CPU      | Quad Core 1.0GHz|
+    | Memoria RAM        | 4GB             |
+    | Almacenamiento libre| 1GB            |
+
+    ## Características de Software
+
+    | Software                  | Licencia       |
+    |---------------------------|----------------|
+    | Google Chrome             | Gratuita       |
+    | Microsoft 365 Empresa Estándar | S/. 50.00 mensual |
+    | Visual Studio             | Gratuita       |
 
     4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
 
-        El propósito del estudio de viabilidad económica, es determinar los beneficios económicos del proyecto o sistema propuesto para la organización, en contraposición con los costos.
-        Como se mencionó anteriormente en el estudio de factibilidad técnica wvaluar si la institución (departamento de TI) cuenta con las herramientas necesarias para la implantación del sistema y evaluar si la propuesta requiere o no de una inversión inicial en infraestructura informática.
-        Se plantearán los costos del proyecto.
-        Costeo del Proyecto: Consiste en estimar los costos de los recursos Humanos, materiales o consumibles y/o máquinas) directos para completar las actividades del proyecto}.*
+    Este estudio tiene como finalidad evaluar la viabilidad del proyecto en el área económica, es decir, si existen los recursos para que el cliente pueda invertir en el desarrollo e implementación del videojuego.
 
         Definir los siguientes costos:
 
         4.2.1. Costos Generales
 
-                Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.
+
+        | Material         | Mes 1 | Mes 2 | Mes 3 |
+        |------------------|-------|-------|-------|
+        | Papel bond       | S/. 4.00 | S/. 4.00 | S/. 4.00 |
+        | Lapiceros        | S/. 2.00 | S/. 2.00 | S/. 2.00 |
+        | Correctores      | S/. 3.00 | S/. 0.00 | S/. 0.00 |
+        | Engrapador       | S/. 10.00 | S/. 0.00 | S/. 0.00 |
+        | Grapas           | S/. 3.00 | S/. 3.00 | S/. 3.00 |
+        | Clips            | S/. 1.50 | S/. 1.50 | S/. 1.50 |
+        | Tinta de impresora | S/. 10.00 | S/. 0.00 | S/. 0.00 |
+        | **Sub Total**    | **S/. 43.50** | **S/. 10.50** | **S/. 10.50** |
 
         4.2.2. Costos operativos durante el desarrollo 
         
-                Evaluar costos necesarios para la operatividad de las actividades de la empresa durante el periodo en el que se realizara el proyecto. Los costos de operación pueden ser renta de oficina, agua, luz, teléfono, etc.
+
+        | Servicio                    | Mes 1     | Mes 2     | Mes 3     |
+        |-----------------------------|-----------|-----------|-----------|
+        | Oficina                     | S/. 0.00  | S/. 0.00  | S/. 0.00  |
+        | Servicio Eléctrico          | S/. 30.00 | S/. 30.00 | S/. 30.00 |
+        | Servicio de Agua            | S/. 30.00 | S/. 30.00 | S/. 30.00 |
+        | Paquete de Empresa Office 365 Estándar | S/. 50.00 | S/. 50.00 | S/. 50.00 |
+        | Hosting                     | S/. 21.00 | S/. 21.00 | S/. 21.00 |
+        | **Sub Total**               | **S/. 131.00** | **S/. 131.00** | **S/. 131.00** |
+
 
         4.2.3. Costos del ambiente
 
-                Evaluar si se cuenta con los requerimientos técnicos para la implantación del software como el dominio, infraestructura de red, acceso a internet, etc.
+
+        | Servicio          | Mes 1   | Mes 2   | Mes 3   |
+        |-------------------|---------|---------|---------|
+        | Servicio de Internet | S/. 20.00 | S/. 20.00 | S/. 20.00 |
+        | **Sub Total**     | **S/. 60.00** | **S/. 60.00** | **S/. 60.00** |
 
         4.2.4. Costos de personal
 
-                Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.
-
-                No se considerará personal para la operación y funcionamiento del sistema.
-
-                Incluir tabla que muestra los gastos correspondientes al personal.
-
-                Indicar organización y roles. Indicar horario de trabajo del personal.
+        | Rol                 | Horario (L a V) | Mes 1  | Mes 2  | Mes 3  |
+        |---------------------|-----------------|--------|--------|--------|
+        | Gerente de proyecto (Analista) | 8:00 -10:00 | S/. 5.00 | S/. 5.00 | S/. 5.00 |
+        | Programador         | 8:00 -10:00 | S/. 4.00 | S/. 4.00 | S/. 4.00 |
+        | DBA                 | 8:00 -10:00 | S/. 3.00 | S/. 3.00 | S/. 3.00 |
+        | Testers             | 8:00 -10:00 | S/. 6.00 | S/. 6.00 | S/. 6.00 |
+        | **Sub Total**       |               | **S/. 18.00** | **S/. 18.00** | **S/. 18.00** |
 
         4.2.5.  Costos totales del desarrollo del sistema
 
-                {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
+        | Descripción            | Costo   |
+        |------------------------|---------|
+        | Costo Total de Costo General | S/. 64.50 |
+        | Costo Total del Ambiente      | S/. 393.00 |
+        | Costo Total del Personal      | S/. 60.00  |
+        | Costo Total de los Operativos | S/. 54.00  |
+        | **Costo Final**               | **S/. 591.50** |
 
     4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
 
-        Describir los beneficios del producto y si se tiene la capacidad por parte del cliente para mantener el sistema funcionando y garantizar el buen funcionamiento y su impacto en los usuarios. Lista de interesados.
+    La instrucción de los usuarios para el manejo de la aplicación es casi nula, ya que es muy fácil de manejar; además de desarrollarla, con bajos costos.
 
     4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
+    No habrá conflictos de mayor o menor gravedad con las leyes, ya que respetamos toda la información que podríamos obtener a través de internet y de las entrevistas a encargados de ciertas áreas del cual pedimos los permisos correspondientes con cierto tiempo de anticipación. Tampoco habrá conflictos con licencias, ya que todas han sido mencionadas con su respectivo costo en este presente documento para la compra de estas.
 
     4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
 
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
+    El proyecto de "Javicho el espadachín" se evaluará bajo criterios sociales y culturales asegurando que no solo se adapte al clima político actual, sino que también respete y promueva códigos de conducta y ética. Al ser un videojuego con un enfoque en la aventura y la estrategia, es fundamental que la narrativa y los personajes reflejen valores positivos y promuevan la inclusión y el respeto cultural. Asimismo, se tomarán en cuenta las sensibilidades culturales para evitar estereotipos negativos y ofrecer una experiencia de juego que sea universalmente aceptable y estimulante.
 
     4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
 
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
+    Dado que "Javicho el espadachín" es un proyecto digital, su impacto ambiental directo es limitado. Sin embargo, se tomarán medidas para asegurar que todos los procesos de desarrollo sigan prácticas sostenibles. Esto incluye la optimización del uso de recursos digitales y la minimización de residuos en todas las fases de diseño y desarrollo. Se evaluará la eficiencia energética del hardware utilizado y se promoverá el uso de equipos que cumplan con normativas de bajo consumo energético. Además, se considerará la posibilidad de colaborar con proveedores de servicios en la nube que utilicen energías renovables, minimizando así la huella de carbono del proyecto.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 5. <span id="_Toc52661356" class="anchor"></span>**Análisis Financiero**
 
     El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
-    Se tiene que estimar financieramente el resultado del proyecto.
+    Para demostrar que este proyecto es rentable, utilizamos una TEA (Tasa de interés) = 8% y el VAN, B/C y TIR.
+
 
     5.1. Justificación de la Inversión
 
         5.1.1. Beneficios del Proyecto
 
-            El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
-            El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            Describir beneficios tangibles e intangibles*
-            Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-            Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
->
-            Ejemplo de beneficios:
+        El videojuego "Javicho el espadachín" ofrece tanto beneficios tangibles como intangibles que justifican la inversión y el esfuerzo dedicados al proyecto.
+        Beneficios Tangibles
+        •	Reducción de costos futuros: Al desarrollar un juego con una base sólida y escalable, se reducirán las necesidades de inversión en actualizaciones y mantenimiento a largo plazo.
+        •	Mejoras en la eficiencia del área de desarrollo: La implementación de metodologías ágiles y herramientas de desarrollo avanzadas incrementará la eficiencia del equipo.
+        •	Aumento de ingresos: Al ser comercializado, el videojuego generará ingresos directos a través de ventas y posiblemente, modelos de monetización dentro del juego.
 
-            - Mejoras en la eficiencia del área bajo estudio.
-            - Reducción de personal.
-            - Reducción de futuras inversiones y costos.
-            - Disponibilidad del recurso humano.
-            - Mejoras en planeación, control y uso de recursos.
-            - Suministro oportuno de insumos para las operaciones.
-            - Cumplimiento de requerimientos gubernamentales.
-            - Toma acertada de decisiones.
-            - Disponibilidad de información apropiada.
-            - Aumento en la confiabilidad de la información.
-            - Mejor servicio al cliente externo e interno
-            - Logro de ventajas competitivas.
-            - Valor agregado a un producto de la compañía.
+        Beneficios Intangibles
+
+        •	Mejoras en la imagen de la empresa: Al lanzar un producto que promueve valores éticos y sociales, la imagen de la empresa se fortalece frente a clientes y stakeholders.
+        •	Aumento de la satisfacción del cliente: Al ofrecer un producto de alta calidad y entretenido, se incrementa la lealtad y satisfacción del usuario.
+        •	Innovación tecnológica: El desarrollo del juego permite explorar y aplicar nuevas tecnologías y técnicas de programación, manteniendo al equipo a la vanguardia de la industria.
+        •	Capacitación y desarrollo de habilidades del equipo: El proyecto contribuye al desarrollo profesional del equipo, mejorando sus habilidades en áreas clave como programación, diseño gráfico y gestión de proyectos.
+
         
         5.1.2. Criterios de Inversión
 
             5.1.2.1. Relación Beneficio/Costo (B/C)
 
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
+            | PERIODO ANUAL | INGRESOS | EGRESOS | EFECTIVO NETO ANUAL |
+            |---------------|----------|---------|---------------------|
+            | 0             | -591.5   |         | -591.5              |
+            | 1             | 300      | 30      | 270                 |
+            | 2             | 300      | 30      | 270                 |
+            | 3             | 300      | 30      | 270                 |
+
+            B/C: 1.135164899
 
             5.1.2.2. Valor Actual Neto (VAN)
             
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+            | Descripción       | Valor   |
+            |-------------------|---------|
+            | INVERSION         | 591.5   |
+            | TASA DE DESCUENTO | 10%     |
+            | VNA               | 671.45  |
 
             5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
 
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
+            | Descripción       | Valor   |
+            |-------------------|---------|
+            | INVERSION         | 591.5   |
+            | TASA DE DESCUENTO | 10%     |
+            | TIR               | 18%     |
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
 
-Explicar los resultados del análisis de factibilidad que nos indican si el proyecto es viable y factible.
+Tras realizar un análisis de factibilidad exhaustivo en múltiples dimensiones para el proyecto "Javicho el espadachín", podemos concluir que el desarrollo de este videojuego 2D es viable y factible desde varios aspectos clave:
+
+El equipo dispone de todas las herramientas tecnológicas necesarias, como el motor de juego Unity y programas de diseño gráfico como Adobe Photoshop, para llevar a cabo el desarrollo del juego. La experiencia previa del equipo en proyectos similares y la disponibilidad de tecnología adecuada aseguran que las necesidades técnicas del proyecto se pueden satisfacer con éxito.
+
+Los análisis económicos indican que, aunque el proyecto requiere una inversión inicial significativa en herramientas, licencias y recursos humanos, las proyecciones de ventas y la estructura de costos están bien fundamentadas. Los beneficios tangibles e intangibles que aportará el juego justifican esta inversión inicial, prometiendo no solo un retorno económico, sino también mejoras en procesos y eficiencia.
+
+Se ha demostrado que el equipo tiene la capacidad no solo para desarrollar el juego, sino también para mantenerlo y actualizarlo post-lanzamiento. Este mantenimiento asegurará la longevidad del juego en el mercado y su capacidad para adaptarse a las necesidades de los usuarios.
+
+No se han identificado impedimentos legales significativos para el desarrollo o lanzamiento del juego. El proyecto cumple con todas las normativas pertinentes de derechos de autor y privacidad, y se ha planificado teniendo en cuenta las regulaciones locales e internacionales.
+
+El juego está diseñado para ser inclusivo y respetar valores universales, promoviendo un impacto positivo en su audiencia. Este enfoque no solo aumenta la aceptación del juego por un público más amplio, sino que también fortalece la responsabilidad social de la empresa.
+
+Aunque el impacto ambiental directo de un videojuego digital es bajo, el proyecto se compromete a seguir prácticas sostenibles en todas las fases de desarrollo, lo cual minimiza aún más cualquier impacto negativo.
+
+En conclusión, los resultados del análisis de factibilidad demuestran que "Javicho el espadachín" es un proyecto viable y factible que promete no solo retorno económico, sino también contribuciones significativas a la empresa y a la comunidad de jugadores. Con el plan correcto y una ejecución cuidadosa, este proyecto está bien posicionado para ser un éxito en el mercado de juegos.
+
