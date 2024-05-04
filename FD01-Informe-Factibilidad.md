@@ -12,33 +12,35 @@
 
 **Proyecto *{Nombre de Proyecto}***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Diseño y creación de Videojuegos*
 
-Docente: *{Nombre de Docente}*
+Docente: *Mag. Patrick José Cuadros Quiroga*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***Villanueva Yucra, Josue					(2018000722)***
+***Condori Vargas, Thomas					(2018000487)***
+***Neira Machaca, Javier					(2017057984)***
 
 **Tacna – Perú**
 
-***{Año}***
+***2024***
 
 **  
 **
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-Sistema *{Nombre del Sistema}*
+Videojuego*Javicho el espadachin*
 
 Informe de Factibilidad
 
-Versión *{1.0}*
+Versión *1.0*
 
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+|1\.0|JVY|PCQ|JVY|04/05/2024|Versión Original|
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -77,23 +79,37 @@ Versión *{1.0}*
 
     1.1. Nombre del proyecto
 
+    Videojuego “Javicho el espadachin”
+
     1.2. Duración del proyecto
+
+    La duración estimada del proyecto es de 3 meses.
 
     1.3. Descripción
 
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
+        Javicho el espadachín es un juego de aventuras 2D en el que los jugadores controlan a Javicho, un hábil espadachín que debe superar misiones desafiantes y combatir enemigos en un mundo fantástico. El juego combina elementos de acción y estrategia, ofreciendo una experiencia de juego envolvente y retadora.
 
     1.4. Objetivos
 
         1.4.1 Objetivo general
+
+        Desarrollar un videojuego 2D atractivo y funcional que proporcione a los jugadores una experiencia emocionante y retadora a través de misiones complejas y mecánicas de combate interesantes.
+        
         1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
+
+        •	Completar la programación del núcleo del juego, incluyendo el sistema de combate y de misiones, en un plazo de 1 mes.
+        •	Diseñar y desarrollar al menos tres niveles diferentes, cada uno con enemigos y obstáculos únicos.
+        •	Implementar gráficos de alta calidad y una banda sonora que mejore la atmósfera del juego.
+        •	Realizar pruebas beta con usuarios seleccionados y ajustar el juego basándose en su retroalimentación.
+
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
+    •	Retrasos en el desarrollo debido a problemas técnicos o de software.
+    •	Dificultades en la integración de los diferentes componentes del juego (gráficos, sonido, mecánicas de juego).
+    •	Falta de aceptación del mercado si el juego no alcanza las expectativas de los jugadores.*
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
@@ -101,18 +117,18 @@ Versión *{1.0}*
 
     3.1. Planteamiento del problema
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+            En el mercado actual de juegos 2D, muchos títulos fallan en ofrecer desafíos que enganchen a los jugadores a largo plazo. Javicho el espadachín busca llenar este vacío ofreciendo mecánicas de juego profundas y una narrativa atractiva.
 
     3.2. Consideraciones de hardware y software
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+            Se utilizará Unity como motor de desarrollo por su versatilidad y soporte para juegos 2D. El desarrollo se realizará en computadoras con especificaciones que soporten procesamiento gráfico avanzado y pruebas intensivas
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
     Factibilidad**
 
-    Describir los resultados que esperan alcanzar del estudio de factibilidad, las actividades que se realizaron para preparar la evaluación de factibilidad y por quien fue aprobado.
+    El equipo cuenta con licencias de Unity y acceso a hardware adecuado para el desarrollo. Se utilizarán herramientas estándares de desarrollo y diseño gráfico como Adobe Photoshop para la creación de activos.
 
     4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
 
